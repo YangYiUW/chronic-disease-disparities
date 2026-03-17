@@ -66,7 +66,7 @@ st.markdown("""
 
 # ── Constants ─────────────────────────────────────────────────────────────────
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-OUT_DIR  = os.path.join(BASE_DIR, "outputs")
+OUT_DIR  = os.path.join(BASE_DIR)
 YEARS    = [2019, 2020, 2021, 2022, 2023]
 
 NO_HYP_YEARS = {2020, 2022}   # years with no hypertension variable available
