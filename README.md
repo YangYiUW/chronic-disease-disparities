@@ -1,1 +1,6 @@
 # chronic-disease-disparities
+
+Requirement:
+streamlit>=1.30.0
+pandas>=2.0.0
+plotly>=5.18.0
