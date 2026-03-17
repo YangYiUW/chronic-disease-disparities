@@ -1,0 +1,157 @@
+year,race_label,income_group,diabetes_prevalence_pct,n
+2019,AIAN NH,Low (<$25k),18.16,2523
+2019,AIAN NH,Middle ($25–50k),13.92,1358
+2019,AIAN NH,Upper-middle ($50–75k),15.92,623
+2019,AIAN NH,High (>$75k),16.26,887
+2019,Asian NH,Low (<$25k),9.08,1532
+2019,Asian NH,Middle ($25–50k),8.96,1620
+2019,Asian NH,Upper-middle ($50–75k),7.43,1092
+2019,Asian NH,High (>$75k),5.76,3108
+2019,Black NH,Low (<$25k),18.75,10059
+2019,Black NH,Middle ($25–50k),14.73,6355
+2019,Black NH,Upper-middle ($50–75k),11.51,3298
+2019,Black NH,High (>$75k),11.73,5403
+2019,Hispanic,Low (<$25k),15.41,14233
+2019,Hispanic,Middle ($25–50k),10.82,7513
+2019,Hispanic,Upper-middle ($50–75k),8.64,3067
+2019,Hispanic,High (>$75k),6.77,5113
+2019,Multiracial NH,Low (<$25k),16.82,2212
+2019,Multiracial NH,Middle ($25–50k),10.49,1696
+2019,Multiracial NH,Upper-middle ($50–75k),8.14,1057
+2019,Multiracial NH,High (>$75k),7.84,1968
+2019,NHPI NH,Low (<$25k),20.51,657
+2019,NHPI NH,Middle ($25–50k),7.22,486
+2019,NHPI NH,Upper-middle ($50–75k),17.22,302
+2019,NHPI NH,High (>$75k),9.24,559
+2019,Other NH,Low (<$25k),16.14,753
+2019,Other NH,Middle ($25–50k),15.51,610
+2019,Other NH,Upper-middle ($50–75k),11.71,335
+2019,Other NH,High (>$75k),9.88,707
+2019,White NH,Low (<$25k),17.01,51712
+2019,White NH,Middle ($25–50k),11.99,60139
+2019,White NH,Upper-middle ($50–75k),9.72,43743
+2019,White NH,High (>$75k),6.49,98432
+2020,AIAN NH,Low (<$25k),18.12,2547
+2020,AIAN NH,Middle ($25–50k),12.18,1344
+2020,AIAN NH,Upper-middle ($50–75k),11.66,687
+2020,AIAN NH,High (>$75k),10.16,964
+2020,Asian NH,Low (<$25k),11.84,1494
+2020,Asian NH,Middle ($25–50k),8.78,1530
+2020,Asian NH,Upper-middle ($50–75k),6.5,1226
+2020,Asian NH,High (>$75k),4.83,3659
+2020,Black NH,Low (<$25k),19.81,9013
+2020,Black NH,Middle ($25–50k),15.01,6159
+2020,Black NH,Upper-middle ($50–75k),13.86,3253
+2020,Black NH,High (>$75k),11.58,5545
+2020,Hispanic,Low (<$25k),16.0,12577
+2020,Hispanic,Middle ($25–50k),11.33,7177
+2020,Hispanic,Upper-middle ($50–75k),7.54,3276
+2020,Hispanic,High (>$75k),6.88,5510
+2020,Multiracial NH,Low (<$25k),14.24,1929
+2020,Multiracial NH,Middle ($25–50k),10.41,1696
+2020,Multiracial NH,Upper-middle ($50–75k),8.06,1038
+2020,Multiracial NH,High (>$75k),6.64,2155
+2020,NHPI NH,Low (<$25k),17.23,529
+2020,NHPI NH,Middle ($25–50k),12.75,434
+2020,NHPI NH,Upper-middle ($50–75k),6.84,250
+2020,NHPI NH,High (>$75k),13.3,491
+2020,Other NH,Low (<$25k),13.31,722
+2020,Other NH,Middle ($25–50k),9.69,595
+2020,Other NH,Upper-middle ($50–75k),14.08,338
+2020,Other NH,High (>$75k),8.07,786
+2020,White NH,Low (<$25k),16.31,45139
+2020,White NH,Middle ($25–50k),13.49,55071
+2020,White NH,Upper-middle ($50–75k),10.42,41664
+2020,White NH,High (>$75k),6.69,97998
+2021,AIAN NH,Low (<$25k),19.65,1927
+2021,AIAN NH,Middle ($25–50k),14.03,1916
+2021,AIAN NH,Upper-middle ($50–75k),11.7,811
+2021,AIAN NH,High (>$75k),11.58,1193
+2021,Asian NH,Low (<$25k),11.97,1101
+2021,Asian NH,Middle ($25–50k),9.16,1886
+2021,Asian NH,Upper-middle ($50–75k),15.73,1275
+2021,Asian NH,High (>$75k),7.9,4487
+2021,Black NH,Low (<$25k),20.32,6801
+2021,Black NH,Middle ($25–50k),15.25,8023
+2021,Black NH,Upper-middle ($50–75k),13.89,4046
+2021,Black NH,High (>$75k),11.8,6662
+2021,Hispanic,Low (<$25k),17.34,9740
+2021,Hispanic,Middle ($25–50k),10.23,9702
+2021,Hispanic,Upper-middle ($50–75k),9.13,3777
+2021,Hispanic,High (>$75k),8.74,6634
+2021,Multiracial NH,Low (<$25k),14.17,1638
+2021,Multiracial NH,Middle ($25–50k),11.43,2086
+2021,Multiracial NH,Upper-middle ($50–75k),8.31,1179
+2021,Multiracial NH,High (>$75k),7.33,2569
+2021,NHPI NH,Low (<$25k),16.82,331
+2021,NHPI NH,Middle ($25–50k),10.05,485
+2021,NHPI NH,Upper-middle ($50–75k),18.94,252
+2021,NHPI NH,High (>$75k),9.13,535
+2021,Other NH,Low (<$25k),15.19,620
+2021,Other NH,Middle ($25–50k),15.58,837
+2021,Other NH,Upper-middle ($50–75k),16.48,433
+2021,Other NH,High (>$75k),7.39,957
+2021,White NH,Low (<$25k),18.05,34932
+2021,White NH,Middle ($25–50k),13.74,65535
+2021,White NH,Upper-middle ($50–75k),9.99,46736
+2021,White NH,High (>$75k),7.11,109158
+2022,AIAN NH,Low (<$25k),26.5,1675
+2022,AIAN NH,Middle ($25–50k),16.63,1747
+2022,AIAN NH,Upper-middle ($50–75k),15.49,841
+2022,AIAN NH,High (>$75k),11.24,1274
+2022,Asian NH,Low (<$25k),17.01,1245
+2022,Asian NH,Middle ($25–50k),11.92,2187
+2022,Asian NH,Upper-middle ($50–75k),8.1,1421
+2022,Asian NH,High (>$75k),8.96,5263
+2022,Black NH,Low (<$25k),22.62,6890
+2022,Black NH,Middle ($25–50k),16.65,8515
+2022,Black NH,Upper-middle ($50–75k),12.91,4417
+2022,Black NH,High (>$75k),12.94,7676
+2022,Hispanic,Low (<$25k),18.96,10516
+2022,Hispanic,Middle ($25–50k),12.24,10351
+2022,Hispanic,Upper-middle ($50–75k),8.49,4051
+2022,Hispanic,High (>$75k),8.02,7822
+2022,Multiracial NH,Low (<$25k),13.97,1560
+2022,Multiracial NH,Middle ($25–50k),11.84,2032
+2022,Multiracial NH,Upper-middle ($50–75k),10.6,1271
+2022,Multiracial NH,High (>$75k),7.08,2909
+2022,NHPI NH,Low (<$25k),33.98,440
+2022,NHPI NH,Middle ($25–50k),19.98,568
+2022,NHPI NH,Upper-middle ($50–75k),6.91,320
+2022,NHPI NH,High (>$75k),15.56,626
+2022,White NH,Low (<$25k),18.5,31970
+2022,White NH,Middle ($25–50k),14.46,61377
+2022,White NH,Upper-middle ($50–75k),11.28,45527
+2022,White NH,High (>$75k),7.72,116195
+2023,AIAN NH,Low (<$25k),20.41,1425
+2023,AIAN NH,Middle ($25–50k),15.28,1844
+2023,AIAN NH,Upper-middle ($50–75k),11.75,800
+2023,AIAN NH,High (>$75k),12.26,1453
+2023,Asian NH,Low (<$25k),16.7,1044
+2023,Asian NH,Middle ($25–50k),11.36,1828
+2023,Asian NH,Upper-middle ($50–75k),9.81,1360
+2023,Asian NH,High (>$75k),9.32,5223
+2023,Black NH,Low (<$25k),23.25,5779
+2023,Black NH,Middle ($25–50k),17.75,7988
+2023,Black NH,Upper-middle ($50–75k),17.27,4236
+2023,Black NH,High (>$75k),11.1,8067
+2023,Hispanic,Low (<$25k),17.14,10122
+2023,Hispanic,Middle ($25–50k),12.35,10893
+2023,Hispanic,Upper-middle ($50–75k),10.59,4332
+2023,Hispanic,High (>$75k),7.76,8295
+2023,Multiracial NH,Low (<$25k),14.46,1427
+2023,Multiracial NH,Middle ($25–50k),12.67,2161
+2023,Multiracial NH,Upper-middle ($50–75k),10.55,1381
+2023,Multiracial NH,High (>$75k),6.37,3373
+2023,NHPI NH,Low (<$25k),22.93,323
+2023,NHPI NH,Middle ($25–50k),12.87,532
+2023,NHPI NH,Upper-middle ($50–75k),16.07,271
+2023,NHPI NH,High (>$75k),8.92,635
+2023,Other NH,Low (<$25k),16.13,458
+2023,Other NH,Middle ($25–50k),15.14,650
+2023,Other NH,Upper-middle ($50–75k),13.91,374
+2023,Other NH,High (>$75k),7.22,951
+2023,White NH,Low (<$25k),19.13,28480
+2023,White NH,Middle ($25–50k),15.18,58580
+2023,White NH,Upper-middle ($50–75k),11.49,44268
+2023,White NH,High (>$75k),7.98,122483

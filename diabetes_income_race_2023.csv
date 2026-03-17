@@ -1,0 +1,33 @@
+race_label,income_group,diabetes_prevalence_pct,n
+AIAN NH,Low (<$25k),20.41,1425
+AIAN NH,Middle ($25–50k),15.28,1844
+AIAN NH,Upper-middle ($50–75k),11.75,800
+AIAN NH,High (>$75k),12.26,1453
+Asian NH,Low (<$25k),16.7,1044
+Asian NH,Middle ($25–50k),11.36,1828
+Asian NH,Upper-middle ($50–75k),9.81,1360
+Asian NH,High (>$75k),9.32,5223
+Black NH,Low (<$25k),23.25,5779
+Black NH,Middle ($25–50k),17.75,7988
+Black NH,Upper-middle ($50–75k),17.27,4236
+Black NH,High (>$75k),11.1,8067
+Hispanic,Low (<$25k),17.14,10122
+Hispanic,Middle ($25–50k),12.35,10893
+Hispanic,Upper-middle ($50–75k),10.59,4332
+Hispanic,High (>$75k),7.76,8295
+Multiracial NH,Low (<$25k),14.46,1427
+Multiracial NH,Middle ($25–50k),12.67,2161
+Multiracial NH,Upper-middle ($50–75k),10.55,1381
+Multiracial NH,High (>$75k),6.37,3373
+NHPI NH,Low (<$25k),22.93,323
+NHPI NH,Middle ($25–50k),12.87,532
+NHPI NH,Upper-middle ($50–75k),16.07,271
+NHPI NH,High (>$75k),8.92,635
+Other NH,Low (<$25k),16.13,458
+Other NH,Middle ($25–50k),15.14,650
+Other NH,Upper-middle ($50–75k),13.91,374
+Other NH,High (>$75k),7.22,951
+White NH,Low (<$25k),19.13,28480
+White NH,Middle ($25–50k),15.18,58580
+White NH,Upper-middle ($50–75k),11.49,44268
+White NH,High (>$75k),7.98,122483

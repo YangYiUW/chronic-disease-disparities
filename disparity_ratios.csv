@@ -1,0 +1,21 @@
+year,comparison_group,diabetes_ratio,hypertension_ratio
+2019,Black NH,1.44,1.193
+2019,Hispanic,1.163,0.706
+2019,AIAN NH,1.59,1.073
+2019,Asian NH,0.753,0.568
+2020,Black NH,1.476,
+2020,Hispanic,1.133,
+2020,AIAN NH,1.337,
+2020,Asian NH,0.644,
+2021,Black NH,1.477,1.24
+2021,Hispanic,1.153,0.707
+2021,AIAN NH,1.425,1.113
+2021,Asian NH,0.913,0.561
+2022,Black NH,1.424,
+2022,Hispanic,1.151,
+2022,AIAN NH,1.584,
+2022,Asian NH,0.894,
+2023,Black NH,1.426,1.201
+2023,Hispanic,1.113,0.743
+2023,AIAN NH,1.284,0.988
+2023,Asian NH,0.881,0.626

@@ -1,0 +1,235 @@
+year,race_label,educa_code,educa_label,diabetes_prevalence_pct,n
+2019,AIAN NH,1,Never attended school,0.0,1
+2019,AIAN NH,2,Elementary (Grades 1–8),18.14,210
+2019,AIAN NH,3,Some high school,21.0,687
+2019,AIAN NH,4,High school graduate,12.93,2163
+2019,AIAN NH,5,Some college/tech school,18.15,2022
+2019,AIAN NH,6,College graduate,15.46,1442
+2019,Asian NH,1,Never attended school,30.21,11
+2019,Asian NH,2,Elementary (Grades 1–8),24.0,91
+2019,Asian NH,3,Some high school,9.17,180
+2019,Asian NH,4,High school graduate,9.38,1617
+2019,Asian NH,5,Some college/tech school,8.2,1895
+2019,Asian NH,6,College graduate,6.56,5306
+2019,Black NH,1,Never attended school,5.78,24
+2019,Black NH,2,Elementary (Grades 1–8),30.21,693
+2019,Black NH,3,Some high school,22.45,2604
+2019,Black NH,4,High school graduate,15.34,9914
+2019,Black NH,5,Some college/tech school,13.15,8869
+2019,Black NH,6,College graduate,11.51,9135
+2019,Hispanic,1,Never attended school,23.62,441
+2019,Hispanic,2,Elementary (Grades 1–8),21.21,5207
+2019,Hispanic,3,Some high school,14.09,4036
+2019,Hispanic,4,High school graduate,9.24,10397
+2019,Hispanic,5,Some college/tech school,9.14,8435
+2019,Hispanic,6,College graduate,7.41,8597
+2019,Multiracial NH,1,Never attended school,7.64,5
+2019,Multiracial NH,2,Elementary (Grades 1–8),39.06,121
+2019,Multiracial NH,3,Some high school,15.1,458
+2019,Multiracial NH,4,High school graduate,10.7,2298
+2019,Multiracial NH,5,Some college/tech school,11.67,2838
+2019,Multiracial NH,6,College graduate,8.56,2637
+2019,NHPI NH,1,Never attended school,49.06,4
+2019,NHPI NH,2,Elementary (Grades 1–8),41.7,24
+2019,NHPI NH,3,Some high school,20.86,146
+2019,NHPI NH,4,High school graduate,14.5,991
+2019,NHPI NH,5,Some college/tech school,8.49,627
+2019,NHPI NH,6,College graduate,6.7,574
+2019,Other NH,1,Never attended school,17.58,11
+2019,Other NH,2,Elementary (Grades 1–8),29.25,78
+2019,Other NH,3,Some high school,12.65,141
+2019,Other NH,4,High school graduate,13.58,793
+2019,Other NH,5,Some college/tech school,13.09,920
+2019,Other NH,6,College graduate,10.74,1234
+2019,White NH,1,Never attended school,12.26,92
+2019,White NH,2,Elementary (Grades 1–8),20.03,3203
+2019,White NH,3,Some high school,14.76,10747
+2019,White NH,4,High school graduate,12.09,81504
+2019,White NH,5,Some college/tech school,10.72,88510
+2019,White NH,6,College graduate,7.02,125499
+2020,AIAN NH,1,Never attended school,9.23,12
+2020,AIAN NH,2,Elementary (Grades 1–8),28.3,183
+2020,AIAN NH,3,Some high school,17.21,654
+2020,AIAN NH,4,High school graduate,11.45,2335
+2020,AIAN NH,5,Some college/tech school,14.75,2137
+2020,AIAN NH,6,College graduate,12.23,1434
+2020,Asian NH,1,Never attended school,2.3,7
+2020,Asian NH,2,Elementary (Grades 1–8),13.77,96
+2020,Asian NH,3,Some high school,8.76,168
+2020,Asian NH,4,High school graduate,8.21,1653
+2020,Asian NH,5,Some college/tech school,6.95,2065
+2020,Asian NH,6,College graduate,5.81,6051
+2020,Black NH,1,Never attended school,31.22,38
+2020,Black NH,2,Elementary (Grades 1–8),29.09,510
+2020,Black NH,3,Some high school,21.66,2339
+2020,Black NH,4,High school graduate,16.3,9285
+2020,Black NH,5,Some college/tech school,15.09,8572
+2020,Black NH,6,College graduate,10.83,9196
+2020,Hispanic,1,Never attended school,14.04,372
+2020,Hispanic,2,Elementary (Grades 1–8),21.7,4164
+2020,Hispanic,3,Some high school,14.75,3561
+2020,Hispanic,4,High school graduate,9.44,10526
+2020,Hispanic,5,Some college/tech school,9.71,8570
+2020,Hispanic,6,College graduate,6.84,8841
+2020,Multiracial NH,1,Never attended school,100.0,3
+2020,Multiracial NH,2,Elementary (Grades 1–8),15.41,92
+2020,Multiracial NH,3,Some high school,18.39,432
+2020,Multiracial NH,4,High school graduate,9.18,2259
+2020,Multiracial NH,5,Some college/tech school,11.29,2771
+2020,Multiracial NH,6,College graduate,6.28,2719
+2020,NHPI NH,1,Never attended school,0.0,3
+2020,NHPI NH,2,Elementary (Grades 1–8),33.72,30
+2020,NHPI NH,3,Some high school,18.21,106
+2020,NHPI NH,4,High school graduate,8.16,795
+2020,NHPI NH,5,Some college/tech school,16.69,533
+2020,NHPI NH,6,College graduate,5.57,530
+2020,Other NH,1,Never attended school,1.1,9
+2020,Other NH,2,Elementary (Grades 1–8),17.36,85
+2020,Other NH,3,Some high school,11.2,164
+2020,Other NH,4,High school graduate,9.4,833
+2020,Other NH,5,Some college/tech school,11.53,910
+2020,Other NH,6,College graduate,7.41,1294
+2020,White NH,1,Never attended school,21.15,96
+2020,White NH,2,Elementary (Grades 1–8),22.55,2667
+2020,White NH,3,Some high school,16.37,9723
+2020,White NH,4,High school graduate,11.69,77238
+2020,White NH,5,Some college/tech school,11.14,83391
+2020,White NH,6,College graduate,7.16,121679
+2021,AIAN NH,1,Never attended school,2.94,8
+2021,AIAN NH,2,Elementary (Grades 1–8),20.75,146
+2021,AIAN NH,3,Some high school,21.65,642
+2021,AIAN NH,4,High school graduate,13.38,2378
+2021,AIAN NH,5,Some college/tech school,14.62,2333
+2021,AIAN NH,6,College graduate,12.68,1713
+2021,Asian NH,1,Never attended school,20.64,14
+2021,Asian NH,2,Elementary (Grades 1–8),35.94,82
+2021,Asian NH,3,Some high school,12.27,177
+2021,Asian NH,4,High school graduate,9.81,1798
+2021,Asian NH,5,Some college/tech school,11.08,2066
+2021,Asian NH,6,College graduate,8.41,7153
+2021,Black NH,1,Never attended school,19.55,29
+2021,Black NH,2,Elementary (Grades 1–8),34.72,510
+2021,Black NH,3,Some high school,23.82,2169
+2021,Black NH,4,High school graduate,15.27,9795
+2021,Black NH,5,Some college/tech school,15.49,9191
+2021,Black NH,6,College graduate,11.25,10854
+2021,Hispanic,1,Never attended school,35.61,405
+2021,Hispanic,2,Elementary (Grades 1–8),20.74,4467
+2021,Hispanic,3,Some high school,13.14,3710
+2021,Hispanic,4,High school graduate,10.24,10773
+2021,Hispanic,5,Some college/tech school,9.23,8870
+2021,Hispanic,6,College graduate,8.08,9810
+2021,Multiracial NH,1,Never attended school,30.72,6
+2021,Multiracial NH,2,Elementary (Grades 1–8),19.1,106
+2021,Multiracial NH,3,Some high school,10.86,425
+2021,Multiracial NH,4,High school graduate,9.63,2492
+2021,Multiracial NH,5,Some college/tech school,10.76,2901
+2021,Multiracial NH,6,College graduate,8.54,3262
+2021,NHPI NH,1,Never attended school,4.96,5
+2021,NHPI NH,2,Elementary (Grades 1–8),18.19,18
+2021,NHPI NH,3,Some high school,14.76,86
+2021,NHPI NH,4,High school graduate,9.04,815
+2021,NHPI NH,5,Some college/tech school,14.0,540
+2021,NHPI NH,6,College graduate,10.68,514
+2021,Other NH,1,Never attended school,35.84,10
+2021,Other NH,2,Elementary (Grades 1–8),26.68,69
+2021,Other NH,3,Some high school,6.65,161
+2021,Other NH,4,High school graduate,9.62,926
+2021,Other NH,5,Some college/tech school,15.89,1097
+2021,Other NH,6,College graduate,8.65,1618
+2021,White NH,1,Never attended school,9.4,93
+2021,White NH,2,Elementary (Grades 1–8),19.42,2580
+2021,White NH,3,Some high school,14.33,9305
+2021,White NH,4,High school graduate,12.17,79988
+2021,White NH,5,Some college/tech school,11.53,90135
+2021,White NH,6,College graduate,7.15,139254
+2022,AIAN NH,1,Never attended school,0.0,4
+2022,AIAN NH,2,Elementary (Grades 1–8),41.45,151
+2022,AIAN NH,3,Some high school,24.98,571
+2022,AIAN NH,4,High school graduate,15.77,2268
+2022,AIAN NH,5,Some college/tech school,15.84,2232
+2022,AIAN NH,6,College graduate,14.3,1675
+2022,Asian NH,1,Never attended school,2.42,18
+2022,Asian NH,2,Elementary (Grades 1–8),10.66,92
+2022,Asian NH,3,Some high school,14.15,195
+2022,Asian NH,4,High school graduate,12.64,2021
+2022,Asian NH,5,Some college/tech school,10.1,2385
+2022,Asian NH,6,College graduate,8.92,8489
+2022,Black NH,1,Never attended school,28.39,35
+2022,Black NH,2,Elementary (Grades 1–8),35.22,559
+2022,Black NH,3,Some high school,19.06,2177
+2022,Black NH,4,High school graduate,16.27,10487
+2022,Black NH,5,Some college/tech school,16.14,9873
+2022,Black NH,6,College graduate,12.35,12057
+2022,Hispanic,1,Never attended school,23.5,452
+2022,Hispanic,2,Elementary (Grades 1–8),24.26,4793
+2022,Hispanic,3,Some high school,16.64,3903
+2022,Hispanic,4,High school graduate,10.01,11779
+2022,Hispanic,5,Some college/tech school,10.08,9889
+2022,Hispanic,6,College graduate,8.19,11678
+2022,Multiracial NH,1,Never attended school,9.38,10
+2022,Multiracial NH,2,Elementary (Grades 1–8),32.9,90
+2022,Multiracial NH,3,Some high school,13.89,459
+2022,Multiracial NH,4,High school graduate,11.13,2460
+2022,Multiracial NH,5,Some college/tech school,11.09,3175
+2022,Multiracial NH,6,College graduate,9.02,3329
+2022,NHPI NH,1,Never attended school,2.57,3
+2022,NHPI NH,2,Elementary (Grades 1–8),11.98,30
+2022,NHPI NH,3,Some high school,26.39,141
+2022,NHPI NH,4,High school graduate,16.69,982
+2022,NHPI NH,5,Some college/tech school,15.87,595
+2022,NHPI NH,6,College graduate,10.78,641
+2022,White NH,1,Never attended school,14.7,117
+2022,White NH,2,Elementary (Grades 1–8),20.52,2298
+2022,White NH,3,Some high school,16.52,8900
+2022,White NH,4,High school graduate,12.5,75781
+2022,White NH,5,Some college/tech school,12.06,88297
+2022,White NH,6,College graduate,7.94,143678
+2023,AIAN NH,1,Never attended school,26.43,8
+2023,AIAN NH,2,Elementary (Grades 1–8),14.99,132
+2023,AIAN NH,3,Some high school,15.5,535
+2023,AIAN NH,4,High school graduate,12.52,2163
+2023,AIAN NH,5,Some college/tech school,16.03,2182
+2023,AIAN NH,6,College graduate,14.86,1728
+2023,Asian NH,1,Never attended school,6.98,15
+2023,Asian NH,2,Elementary (Grades 1–8),20.37,83
+2023,Asian NH,3,Some high school,15.91,177
+2023,Asian NH,4,High school graduate,11.26,1780
+2023,Asian NH,5,Some college/tech school,7.32,2131
+2023,Asian NH,6,College graduate,9.99,7763
+2023,Black NH,1,Never attended school,47.84,29
+2023,Black NH,2,Elementary (Grades 1–8),25.01,486
+2023,Black NH,3,Some high school,23.37,1971
+2023,Black NH,4,High school graduate,16.64,9580
+2023,Black NH,5,Some college/tech school,15.92,9033
+2023,Black NH,6,College graduate,12.58,11545
+2023,Hispanic,1,Never attended school,33.04,518
+2023,Hispanic,2,Elementary (Grades 1–8),19.72,5137
+2023,Hispanic,3,Some high school,15.61,4208
+2023,Hispanic,4,High school graduate,9.71,12309
+2023,Hispanic,5,Some college/tech school,11.66,9488
+2023,Hispanic,6,College graduate,8.07,11203
+2023,Multiracial NH,1,Never attended school,28.33,4
+2023,Multiracial NH,2,Elementary (Grades 1–8),20.83,96
+2023,Multiracial NH,3,Some high school,11.82,450
+2023,Multiracial NH,4,High school graduate,9.13,2668
+2023,Multiracial NH,5,Some college/tech school,11.16,3200
+2023,Multiracial NH,6,College graduate,7.58,3658
+2023,NHPI NH,1,Never attended school,0.0,4
+2023,NHPI NH,2,Elementary (Grades 1–8),28.65,23
+2023,NHPI NH,3,Some high school,21.35,120
+2023,NHPI NH,4,High school graduate,11.85,849
+2023,NHPI NH,5,Some college/tech school,12.65,538
+2023,NHPI NH,6,College graduate,12.26,549
+2023,Other NH,1,Never attended school,0.0,3
+2023,Other NH,2,Elementary (Grades 1–8),37.08,60
+2023,Other NH,3,Some high school,31.19,133
+2023,Other NH,4,High school graduate,12.22,766
+2023,Other NH,5,Some college/tech school,7.84,923
+2023,Other NH,6,College graduate,11.45,1412
+2023,White NH,1,Never attended school,37.06,74
+2023,White NH,2,Elementary (Grades 1–8),20.86,1975
+2023,White NH,3,Some high school,16.8,8117
+2023,White NH,4,High school graduate,12.68,74166
+2023,White NH,5,Some college/tech school,12.42,84351
+2023,White NH,6,College graduate,8.01,143048
